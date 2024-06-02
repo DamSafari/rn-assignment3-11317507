@@ -24,3 +24,11 @@ This readme file contains a brief description of each component's usage.
 
 #The Image component
 - This allows us to include images in the app.
+
+#Screenshot of work
+![Second screenshot of work]
+(https://github.com/DamSafari/rn-assignment3-11317507/assets/169341991/ed166684-1cbb-4e09-a7b1-3e527a7086d5)
+![Screenshot of work]
+(https://github.com/DamSafari/rn-assignment3-11317507/assets/169341991/7d8d1117-2b7b-489d-8a4e-bbf4083a074c)
+
+
