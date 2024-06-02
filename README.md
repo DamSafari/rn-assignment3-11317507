@@ -11,4 +11,16 @@ This readme file contains a brief description of each component's usage.
 - This allows us to scroll through the content on the device if it is a lot.
 
 #The TextInput component
-- 
+- This allows the user to input text.
+
+#The StyleSheet component
+- This allows us to use styling properties on some components
+
+#The Button component
+- This allows us to create buttons.
+
+#The FlatList and SectionList components
+- This allows us to create lists of items in the app.
+
+#The Image component
+- This allows us to include images in the app.
