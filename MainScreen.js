@@ -20,6 +20,7 @@ const tasks = [
   { id: '1', task: 'Mobile App Development' },
   { id: '2', task: 'Web Development' },
   { id: '3', task: 'Push Ups' },
+  { id: '4', task: 'Reading a Book' },
   
 ];
 
