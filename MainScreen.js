@@ -23,7 +23,9 @@ const tasks = [
   { id: '4', task: 'Reading a Book' },
   { id: '5', task: 'Learning React Native' },
   { id: '6', task: 'Cooking Dinner' },
-  
+  { id: '7', task: 'Going for a Run' },
+  { id: '8', task: 'Writing Blog Post' },
+  { id: '9', task: 'Travel Planning' },
 ];
 
 const MainScreen = () => {
